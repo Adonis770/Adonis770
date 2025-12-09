@@ -58,7 +58,7 @@ I’m a cybersecurity enthusiast passionate about SOC operations, threat detecti
 ### 🔬 Malware Analysis & Reverse Engineering
 ### 🔍 Static Analysis 
 ![YARA](https://img.shields.io/badge/YARA-AA0000?style=for-the-badge&logo=python&logoColor=white)
-![IDA Pro/Free](https://img.shields.io/badge/IDA_Pro/Free-333333?style=for-the-badge&logo=data%20transfer&logoColor=white)
+![IDA ](https://img.shields.io/badge/IDA_Pro/Free-333333?style=for-the-badge&logo=data%20transfer&logoColor=white)
 ![CFF Explorer / PEiD](https://img.shields.io/badge/PE_Analysis-40A9FF?style=for-the-badge&logo=windows&logoColor=white)
 ![Strings](https://img.shields.io/badge/Strings-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HxD](https://img.shields.io/badge/HxD-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
